@@ -1,0 +1,28 @@
+
+LocalAddress  RemoteAddress        State OwningProcess
+------------  -------------        ----- -------------
+::            ::                  Listen           624
+::            ::                  Listen           616
+::            ::                  Listen          1740
+::            ::                  Listen           916
+::            ::                  Listen           304
+::            ::                  Listen           484
+::            ::                  Listen             4
+::            ::                  Listen             4
+::            ::                  Listen           924
+::            ::                  Listen             4
+::            ::                  Listen           768
+0.0.0.0       0.0.0.0              Bound           916
+10.10.145.160 40.127.169.103     SynSent           916
+0.0.0.0       0.0.0.0             Listen           624
+0.0.0.0       0.0.0.0             Listen           616
+0.0.0.0       0.0.0.0             Listen          1740
+0.0.0.0       0.0.0.0             Listen           916
+0.0.0.0       0.0.0.0             Listen           304
+0.0.0.0       0.0.0.0             Listen           484
+10.10.145.160 10.100.2.30    Established           924
+0.0.0.0       0.0.0.0             Listen           924
+10.10.145.160 0.0.0.0             Listen             4
+0.0.0.0       0.0.0.0             Listen           768
+
+

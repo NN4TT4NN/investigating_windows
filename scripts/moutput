@@ -1,0 +1,3330 @@
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+You cannot call a method on a null-valued expression.
+At line:2273 char:5
++ ...             $PEHandle = $Win32Functions.VirtualAlloc.Invoke($LoadAddr ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running the script in a new 
+PowerShell process (the new PowerShell process will have a different memory layout, so the address the PE wants might 
+be free).
+At line:2285 char:4
++             Throw "VirtualAlloc failed to allocate memory for PE. If  ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (VirtualAlloc fa...might be free).:String) [], RuntimeException
+    + FullyQualifiedErrorId : VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running 
+    the script in a new PowerShell process (the new PowerShell process will have a different memory layout, so the ad  
+  dress the PE wants might be free).
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+You cannot call a method on a null-valued expression.
+At line:2273 char:5
++ ...             $PEHandle = $Win32Functions.VirtualAlloc.Invoke($LoadAddr ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running the script in a new 
+PowerShell process (the new PowerShell process will have a different memory layout, so the address the PE wants might 
+be free).
+At line:2285 char:4
++             Throw "VirtualAlloc failed to allocate memory for PE. If  ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (VirtualAlloc fa...might be free).:String) [], RuntimeException
+    + FullyQualifiedErrorId : VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running 
+    the script in a new PowerShell process (the new PowerShell process will have a different memory layout, so the ad  
+  dress the PE wants might be free).
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:489 char:3
++         $VirtualAlloc = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:494 char:3
++         $VirtualAllocEx = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:499 char:3
++         $memcpy = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:504 char:3
++         $memset = [System.Runtime.InteropServices.Marshal]::GetDelega ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:509 char:3
++         $LoadLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:514 char:3
++         $GetProcAddress = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:519 char:3
++         $GetProcAddressOrdinal = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:524 char:3
++         $VirtualFree = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:529 char:3
++         $VirtualFreeEx = [System.Runtime.InteropServices.Marshal]::Ge ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:534 char:3
++         $VirtualProtect = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:539 char:3
++         $GetModuleHandle = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:544 char:3
++         $FreeLibrary = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:549 char:6
++         $OpenProcess = [System.Runtime.InteropServices.Marshal]::GetD ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:554 char:6
++         $WaitForSingleObject = [System.Runtime.InteropServices.Marsha ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:559 char:9
++         $WriteProcessMemory = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:564 char:9
++         $ReadProcessMemory = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:569 char:9
++         $CreateRemoteThread = [System.Runtime.InteropServices.Marshal ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:574 char:9
++         $GetExitCodeThread = [System.Runtime.InteropServices.Marshal] ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:579 char:9
++         $OpenThreadToken = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:584 char:9
++         $GetCurrentThread = [System.Runtime.InteropServices.Marshal]: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:589 char:9
++         $AdjustTokenPrivileges = [System.Runtime.InteropServices.Mars ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:594 char:9
++         $LookupPrivilegeValue = [System.Runtime.InteropServices.Marsh ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:599 char:9
++         $ImpersonateSelf = [System.Runtime.InteropServices.Marshal]:: ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:612 char:9
++         $IsWow64Process = [System.Runtime.InteropServices.Marshal]::G ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:617 char:9
++         $CreateThread = [System.Runtime.InteropServices.Marshal]::Get ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+Exception calling "GetMethod" with "1" argument(s): "Ambiguous match found."
+At line:886 char:6
++         $GetProcAddress = $UnsafeNativeMethods.GetMethod('GetProcAddr ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : AmbiguousMatchException
+ 
+You cannot call a method on a null-valued expression.
+At line:893 char:6
++         Write-Output $GetProcAddress.Invoke($null, @([System.Runtime. ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+Cannot find an overload for "GetDelegateForFunctionPointer" and the argument count: "2".
+At line:622 char:3
++         $LocalFree = [System.Runtime.InteropServices.Marshal]::GetDel ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 
+You cannot call a method on a null-valued expression.
+At line:2273 char:5
++ ...             $PEHandle = $Win32Functions.VirtualAlloc.Invoke($LoadAddr ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 
+VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running the script in a new 
+PowerShell process (the new PowerShell process will have a different memory layout, so the address the PE wants might 
+be free).
+At line:2285 char:4
++             Throw "VirtualAlloc failed to allocate memory for PE. If  ...
++             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (VirtualAlloc fa...might be free).:String) [], RuntimeException
+    + FullyQualifiedErrorId : VirtualAlloc failed to allocate memory for PE. If PE is not ASLR compatible, try running 
+    the script in a new PowerShell process (the new PowerShell process will have a different memory layout, so the ad  
+  dress the PE wants might be free).
+ 

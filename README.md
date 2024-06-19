@@ -108,3 +108,21 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     * And there it is, our last logged in user is "Administrator":
 
     <img src="screenshots/question02_answer.png" width="700"/>
+
+3. ###### When did John log onto the system last?
+   
+   * The answer for this one is in the last answer:
+
+    <img src="screenshots/john_last_logon.png" width="700"/>
+    
+    <img src="screenshots/question03_answer.png" width="700"/>
+  
+
+3. ###### What IP does the system connect to when it first starts?
+   
+   * For this you need to watch when the you start the machine, there will be an ip showing up to the screen.
+
+    <img src="screenshots/first_ip_conn.png" width="700"/>
+
+    <img src="screenshots/question04_answer.png" width="700"/>
+

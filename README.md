@@ -38,19 +38,16 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
 ### Questions
 
-1. ###### Whats the version and year of the windows machine?
+1. ### Whats the version and year of the windows machine?
+    
     <img src="screenshots/question01.png" width=700 height="auto"/>
-    <img src="screenshots/question01_answer.png
-    
-    
-    
-    
-    " width=700 height="auto"/>
+    <img src="screenshots/question01_answer.png" width=700 height="auto"/>
 
-    * ###### First one is easy, just type "systeminfo" and it gives to you all computer's basic information.
+    * First one is easy, just type "systeminfo" and it gives to you all computer's basic information.
 
 
-2. ###### Which user logged in last?
+2. ### Which user logged in last?
+    
     * For this one first we need to know how many users are in the victim's machine.
     * The command for this is the following:
   
@@ -109,7 +106,7 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     <img src="screenshots/question02_answer.png" width="700"/>
 
-3. ###### When did John log onto the system last?
+3. ### When did John log onto the system last?
    
    * The answer for this one is in the last answer:
 
@@ -118,7 +115,7 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     <img src="screenshots/question03_answer.png" width="700"/>
   
 
-3. ###### What IP does the system connect to when it first starts?
+4. ### What IP does the system connect to when it first starts?
    
    * For this you need to watch when the you start the machine, there will be an ip showing up to the screen.
 
@@ -126,3 +123,19 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     <img src="screenshots/question04_answer.png" width="700"/>
 
+5. ### What two accounts had administrative privileges (other than the Administrator user)?
+   
+   * First thing about this you need to know is .... users belongs to groups.
+   * So, if i'm logged in as Administrator, i can see what groups are there and which one i'm part of.
+   * And that's an easy task:
+  
+    <img src="screenshots/admin_group.png" width="700"/>
+  
+   * And now it's easy to find who has the same level of access that you have:
+  
+    <img src="screenshots/administrators.png" width="700"/>
+
+   * There it is, our question number 5:
+    
+    <img src="screenshots/question05_answer.png" width="700"/>
+   

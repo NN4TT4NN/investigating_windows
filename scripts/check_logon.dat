@@ -1,0 +1,7 @@
+@echo off
+
+for %%u in (Administrator John Jenny Guest DefaultAccount) do (
+    echo %%u: 
+    net user %%u | findstr /B /C:"Last logon"
+    echo.
+)

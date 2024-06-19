@@ -40,6 +40,71 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
 1. ###### Whats the version and year of the windows machine?
     <img src="screenshots/question01.png" width=700 height="auto"/>
-    <img src="screenshots/question01_answer.png" width=700 height="auto"/>
+    <img src="screenshots/question01_answer.png
+    
+    
+    
+    
+    " width=700 height="auto"/>
 
     * ###### First one is easy, just type "systeminfo" and it gives to you all computer's basic information.
+
+
+2. ###### Which user logged in last?
+    * For this one first we need to know how many users are in the victim's machine.
+    * The command for this is the following:
+  
+        ````
+        net user
+        ````
+    <img src="screenshots/listing_accounts.png" width=700 height="auto"/>
+
+    * Now you know all of them!
+    * And it takes us to the next command to see who logged in before us.
+    * There's many ways you can do this specially in Windows machines, navigating by the interface.
+    * But, we are hackers, we should really know how to manage different commands into any terminal.
+    * The command below, shows the login of the "administrator" user  ⬇️
+    ````
+    net user "administrator" | findstr /B /C:"Last logon"  
+    ````
+    <img src="screenshots/adm_last_logon.png"/>
+
+    * But, just like i said, we're hackers, we want something more.
+    * So let's create a script to return all users last logins into our terminal:
+    
+    ````
+    @echo off
+
+    for %%u in (John Administrator Jenny Guest DefaultAccount) do (
+        echo %%u:
+        net user %%u | findstr /B /C:"Last logon"
+        echo.
+    )
+
+    ````
+    * First we need to know where we are, do let's run a dir:
+    
+    <img src="screenshots/dir.png" width="700"/>
+
+    * You can change directories if you want, but i'm kipping this one.
+    * Now lets create the file :
+    ````
+    echo "hello" > check_logon.bat
+    ````
+    <img src="screenshots/create_check_logon_file.png" width="700"/>
+
+    * Now you can open notepad and start creating your script:
+    ````
+    notepad check_logon.bat
+    ````
+    <img src="screenshots/opened_notepad.png" width="700"/>
+    <img src="screenshots/bat_script.png" width="700"/>
+
+    * Save the file.
+    * Now go back to the terminal and run the file:
+  
+    <img src="screenshots/script_output.png" width="700"/>
+
+    * And there it is, our last logged in user is "Administrator":
+
+    <img src="screenshots/question02_answer.png" width="700"/>

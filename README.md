@@ -190,3 +190,26 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     ````
 
     <img src="screenshots/question07_answer.png" width="900"/>
+
+
+8. ### What port did this file listen locally for?
+
+    This is in the question number 06 too.
+    If you double click at the malicious task, the screen below opens to you:
+
+    <img src="screenshots/nc_command_port.png" width="900"/>
+
+    Take a look at the command:
+
+    ````
+    C:\TMP\nc.ps1 -l 1348
+    ````
+
+    What it does is execute the file >>> C:\TMP\nc.ps1
+
+    Then tells it to listen to some port >>> -l
+
+    And finally the port that will receive some interaction >>> 1348
+
+    
+    <img src="screenshots/question08_answer.png" width="900"/>

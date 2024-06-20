@@ -41,6 +41,9 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 1. ### Whats the version and year of the windows machine?
     
     <img src="screenshots/question01.png" width=700 height="auto"/>
+
+    ### And there is the answer:
+
     <img src="screenshots/question01_answer.png" width=700 height="auto"/>
 
     * First one is easy, just type "systeminfo" and it gives to you all computer's basic information.
@@ -102,15 +105,21 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
   
     <img src="screenshots/script_output.png" width="700"/>
 
-    * And there it is, our last logged in user is "Administrator":
+
+    ### And there is the answer:
 
     <img src="screenshots/question02_answer.png" width="700"/>
+
 
 3. ### When did John log onto the system last?
    
    * The answer for this one is in the last answer:
 
     <img src="screenshots/john_last_logon.png" width="700"/>
+
+
+    ### And there is the answer:
+
     
     <img src="screenshots/question03_answer.png" width="700"/>
   
@@ -120,6 +129,10 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
    * For this you need to watch when the you start the machine, there will be an ip showing up to the screen.
 
     <img src="screenshots/first_ip_conn.png" width="700"/>
+
+
+    ### And there is the answer:
+
 
     <img src="screenshots/question04_answer.png" width="700"/>
 
@@ -135,7 +148,8 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
   
     <img src="screenshots/administrators.png" width="700"/>
 
-   * There it is, our question number 5:
+
+    ### And there is the answer:
     
     <img src="screenshots/question05_answer.png " width="700"/>
    
@@ -174,8 +188,12 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
    
    * And there it is ... a malicious code that involves running a Python script that listens for a connection and, upon receiving a connection, executes commands on the connecting machine. This behavior is characteristic of a reverse shell, a type of shell where the target machine initiates the connection to the attacker's machine, allowing the attacker to execute commands on the target machine remotely.
   
-    
+
+    ### And there is the answer:
+
     <img src="screenshots/question06_answer.png" width="900"/>
+
+    
 
 7. ### What file was the task trying to run daily?
 
@@ -189,6 +207,8 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     nc.ps1
     ````
 
+    ### And there is the answer:
+    
     <img src="screenshots/question07_answer.png" width="900"/>
 
 
@@ -211,6 +231,8 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     And finally the port that will receive some interaction >>> 1348
 
+
+    ### And there is the answer:
     
     <img src="screenshots/question08_answer.png" width="900"/>
 
@@ -225,6 +247,9 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     <img src="screenshots/script_output.png" width="900"/>
 
+
+    ### And there is the answer:
+
     <img src="screenshots/question09_answer.png" width="900"/>
 
 
@@ -236,6 +261,8 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     
     <img src="screenshots/compromise_start_date.png" width="900"/>
 
+    
+    ### And there is the answer:
     
     <img src="screenshots/question10_answer.png" width="900"/>
 
@@ -263,9 +290,53 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     And now, you can search and read more about "Event ID" in Windows machines.
 
     This knowledge gives you information without need to search log by log whats going on.
+
     
-    
+    ### And there is the answer:
+
     <img src="screenshots/question11_answer.png" width="900"/>
+
+
+
+12. ### What tool was used to get Windows passwords?
+
+    As we know, there's a "TMP" directory with malicious files.
+
+
+    <img src="screenshots/tmp_files.png" width="900"/>
+
+
+    And after you look inside all of them, there is one file with a evil script well know by the hacking community called: Mimikatz.
+
+    If you don't know what Mimikatz is... basically Benjamin Delpy created it as a proof of concept to show Microsoft that its authentication protocols were vulnerable to attack.
+
+
+    <img src="screenshots/mimikatz.png" width="900"/>
+    
+    ### And there is the answer:
+    
+    <img src="screenshots/question12_answer.png" width="900"/>
+
+
+13. ### What was the attackers external control and command servers IP?
+
+    Well, Windows machines have hosts file. If didn't know about it, now you do.
+
+    The hosts file is a plain text file used to map host names to IP addresses. On Windows, it is located in the C:\Windows\System32\drivers\etc folder. 
+
+
+    <img src="screenshots/hosts_file.png" width="900"/>
+
+
+    Inside hosts you'll find this:
+
+
+    <img src="screenshots/hosts_file_content.png" width="900"/>
+
+
+    ### And there is the answer:
+    
+    <img src="screenshots/question13_answer.png" width="900"/>
 
 
     

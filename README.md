@@ -137,5 +137,41 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
    * There it is, our question number 5:
     
-    <img src="screenshots/question05_answer.png" width="700"/>
+    <img src="screenshots/question05_answer.png " width="700"/>
    
+6. ### Whats the name of the scheduled task that is malicous?
+
+   * Windows machines have a "Task Scheduler"
+   * And we're taking a look at this tasks
+   * For this you can click at "Windows" key or icon and type "task scheduler"
+   * It'll show you something like this
+  
+    <img src="screenshots/task_scheduler.png" height="700"/>
+    
+   * You click in "Task Scheduler" and you'll be directed to the scheduler screen
+   * Take your time and look to all the files there
+   * Certanly you'll reach the same result as mine
+   * There is a file called "Clean file system"
+   * It runs every day at 4:55 PM 
+
+    <img src="screenshots/malicious_task.png" width="900"/>
+
+   * And now we can take a good look at the "Actions" tab 
+    
+    <img src="screenshots/malicous_task_actions.png" width="900"/>
+
+   * As you can see, this file runs a PowerShell task
+   * And to have the full knowledge about whats going on with that file
+   * Let's take a closer look
+   * So we navigate to that path where the ".ps1" file is located
+   
+    <img src="screenshots/nc_malicious_script.png" width="900"/>
+   
+   * I chose to open it with "Notepad" to see what it does
+
+    <img src="screenshots/nc_code.png" width="900"/>
+
+   * And there it is ... a malicious code that involves running a Python script that listens for a connection and, upon receiving a connection, executes commands on the connecting machine. This behavior is characteristic of a reverse shell, a type of shell where the target machine initiates the connection to the attacker's machine, allowing the attacker to execute commands on the target machine remotely.
+  
+    <img src="screenshots/question06_answer.png" width="900"/>
+

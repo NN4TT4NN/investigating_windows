@@ -399,3 +399,33 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     ### And there is the answer:
 
     <img src="screenshots/question15_answer.png" width="900"/>
+
+
+16. ### Check for DNS poisoning, what site was targeted?
+
+    The last one is already answered.
+
+    Let's go back to the "Network Basics".
+
+    As you know, DNS exists for translating human-readable domain names into IP addresses that computers use to identify each other on the network. Right?
+
+    So, by tampering with the DNS data, attackers can redirect traffic from legitimate websites to fraudulent or malicious ones. 
+
+    And.... where is the file that has hostnames and ip addresses in our Windows machine? 
+
+    Exactly >>>> C:\Windows\System32\drivers\etc
+
+    <img src="screenshots/hosts_path.png" width="900"/>
+
+    Do you remember what was the ip used to remotely control the victim's machine? Check question 13.
+
+    <img src="screenshots/hosts_file_content.png" width="900"/>
+
+
+    ### And there is the answer:
+
+    <img src="screenshots/question16_answer.png" width="900"/>
+
+
+
+

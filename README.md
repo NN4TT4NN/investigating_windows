@@ -426,7 +426,7 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     <img src="screenshots/question16_answer.png" width="900"/>
 
-    <pre style="background: transparent; color: #FF0000;>
+    <pre>
  
     |_   _|| | | || || |  |_   _|( )/ ___|  | || |  | |    | |     |  ___| / _ \ | |    | |/ // ___| 
       | |  | |_| || || |_   | |  |/ \___ \  | || |_ | |    | |     | |_   | | | || |    | ' / \___ \ 

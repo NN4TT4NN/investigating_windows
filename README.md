@@ -228,3 +228,36 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     <img src="screenshots/question09_answer.png" width="900"/>
 
 
+
+10. ### At what date did the compromise take place?
+    
+    For this one you need to take a look at "Event Viewer".
+
+    Windows machines storage their events there and you can take advantage of it.
+
+    So... you can press windows key and type "event" and this will show up:
+
+
+    <img src="screenshots/event_viewer_search.png" height="500"/>
+
+
+    Now you see this screen with events, that happened in this machine, and there are logs, and logs tells you a story. Let's take a closer look at it:
+
+    <img src="screenshots/event_viewer_tasks.png" width="900"/>
+
+
+    And now, you can search and read more about "Event ID" in Windows machines.
+
+    This gives you information without need to find any information log by log and etc...
+
+    So, there is an event "4625"... it means that a login atempt was taken and it failed.
+
+    It could be a simply password input mistake, but, in this case it took my atention.
+
+    And at 03/02/2019 there is a lot of events, so my guess for this question is that in this date da comprimise took place. 
+
+    
+    <img src="screenshots/question10_answer.png" width="900"/>
+
+
+    

@@ -339,4 +339,30 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     <img src="screenshots/question13_answer.png" width="900"/>
 
 
-    
+
+14. ### What was the extension name of the shell uploaded via the servers website?
+
+    This is the type of question that know the answer if you are curious about everything and have searched for all the victim's file system.
+
+    Because the answer for this one is right in front of our faces.
+
+    <img src="screenshots/inetpub.png" width="900"/>
+
+    When you navigate into this folder, there is another called "wwwroot"
+
+    <img src="screenshots/wwwroot.png" width="900"/>
+
+    You enter this one too, and there are some interesting files.
+
+    Take your time... take a alook around. 
+
+    There's our answer. 
+
+    <img src="screenshots/jspfiles.png" width="900"/>
+
+
+    ### And there is the answer:
+
+    <img src="screenshots/question14_answer.png" width="900"/>
+
+

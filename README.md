@@ -171,7 +171,22 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     <img src="screenshots/nc_code.png" width="900"/>
 
+   
    * And there it is ... a malicious code that involves running a Python script that listens for a connection and, upon receiving a connection, executes commands on the connecting machine. This behavior is characteristic of a reverse shell, a type of shell where the target machine initiates the connection to the attacker's machine, allowing the attacker to execute commands on the target machine remotely.
   
+    
     <img src="screenshots/question06_answer.png" width="900"/>
 
+7. ### What file was the task trying to run daily?
+
+    This is answered in the last question:
+
+    
+    <img src="screenshots/malicous_task_actions.png" width="900"/>
+
+
+    ````
+    nc.ps1
+    ````
+
+    <img src="screenshots/question07_answer.png" width="900"/>

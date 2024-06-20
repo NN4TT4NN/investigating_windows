@@ -231,6 +231,20 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
 10. ### At what date did the compromise take place?
     
+    For this one you can take a look at the "TMP" directory, because there are many malicious codes as we already know, and at the same date, other directories also have changes.
+
+    
+    <img src="screenshots/compromise_start_date.png" width="900"/>
+
+    
+    <img src="screenshots/question10_answer.png" width="900"/>
+
+
+11. ### At what date did the compromise take place?
+
+    #### THIS QUESTION IS A BIT WEIRD. BECAUSE THE CORRECT ANSWER SHOULD BE THE EVENT CODE 4670
+    #### BUT FOR SOME REASON IT'S NOT. SO LET'S TAKE THE HINT GIVEN AT TRY HACK ME E MOVE ON.
+    
     For this one you need to take a look at "Event Viewer".
 
     Windows machines storage their events there and you can take advantage of it.
@@ -248,16 +262,10 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     And now, you can search and read more about "Event ID" in Windows machines.
 
-    This gives you information without need to find any information log by log and etc...
-
-    So, there is an event "4625"... it means that a login atempt was taken and it failed.
-
-    It could be a simply password input mistake, but, in this case it took my atention.
-
-    And at 03/02/2019 there is a lot of events, so my guess for this question is that in this date da comprimise took place. 
-
+    This knowledge gives you information without need to search log by log whats going on.
     
-    <img src="screenshots/question10_answer.png" width="900"/>
+    
+    <img src="screenshots/question11_answer.png" width="900"/>
 
 
     

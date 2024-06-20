@@ -213,3 +213,18 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
 
     
     <img src="screenshots/question08_answer.png" width="900"/>
+
+
+9. ### When did Jenny last logon?
+
+    This is aswered at the question 02.
+
+    Do you remember we built a script to show us all the last logged in users?
+
+    Take a look at the output for Jenny:
+
+    <img src="screenshots/script_output.png" width="900"/>
+
+    <img src="screenshots/question09_answer.png" width="900"/>
+
+

@@ -366,3 +366,36 @@ xfreerdp /v:<victim_machine_ip> /u:Administrator /p:letmein123!
     <img src="screenshots/question14_answer.png" width="900"/>
 
 
+15. ### What was the last port the attacker opened?
+
+    Think with me now. 
+
+    You have a house. Inside there is everything you need... food, clothes, bed, etc...
+
+    There's a lot of things you care about, so you protect it! Right?
+
+    So, we live in a world even more digitalized every single day.
+
+    People care even more about their phones and computers then  other people.
+
+    So... WHAT IS THE MOST KNOWN WAY TO PROTECT YOUR COMPUTER?
+
+    Exactly, Firewall!!!!
+
+    So, let's take a look. Press Windows key and type "firewall"
+
+    <img src="screenshots/firewall_search.png" width="300"/>
+
+    Now, we have a feel options, the first one is obviously..."Inbound Rules".
+
+    Click there, what is the last rule changed to the PC?
+
+    <img src="screenshots/inboundrules.png" width="900"/>
+
+    Now, scroll to side a bit
+
+    <img src="screenshots/lastportopened.png" width="900"/>
+
+    ### And there is the answer:
+
+    <img src="screenshots/question15_answer.png" width="900"/>
